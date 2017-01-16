@@ -1,10 +1,8 @@
 ### your site title here
 
-title: Hagura - Light!
-baseurl: /hagura # name of the repository
-email: your@email.com
-
-
+title: friable.rocks
+baseurl: # name of the repository
+email: mingcheng@outlook.com
 
 highlighter: rouge
 markdown: kramdown
@@ -12,11 +10,10 @@ markdown: kramdown
 
 
 # Tracker
-analytics: UA-83979019-1
+#analytics: UA-83979019-1
 
 # Comments
-disqus-shortname: webjeda-demo
-
+#disqus-shortname: webjeda-demo
 
 #optimization
 #compress.html
@@ -29,13 +26,11 @@ compress_html:
   blanklines: false
   profile: false
   startings: []
-  
 
 sass:
  style: compressed
 
 exclude:
 - README.md
-
 
 gems: [jekyll-seo-tag, jekyll-paginate]
