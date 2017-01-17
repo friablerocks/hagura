@@ -8,7 +8,6 @@ highlighter: rouge
 markdown: kramdown
 ### exclude the instructions / write-up in the README.md
 
-
 # Tracker
 #analytics: UA-83979019-1
 
@@ -26,6 +25,9 @@ compress_html:
   blanklines: false
   profile: false
   startings: []
+
+
+# destination: docs
 
 sass:
  style: compressed
